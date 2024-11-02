@@ -1,2 +1,4 @@
-# nasa-react-app
- Build a React JS app with NASA api
+# nasa-apod
+React JS app using NASA API
+
+vercel: https://nasa-apod-blond.vercel.app/

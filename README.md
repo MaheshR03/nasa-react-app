@@ -12,7 +12,7 @@ A modern React application that displays NASA's Astronomy Picture of the Day usi
 
 ## 🌐 Live Demo
 
-**Production Site**: [https://nasa-apod-blond.vercel.app/](https://nasa-apod-blond.vercel.app/)
+**Production Site**: [NASA : Astronomy Picture of the Day](https://nasa-apod-blond.vercel.app/)
 
 ## 🛠️ Technology Stack
 
